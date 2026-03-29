@@ -1,0 +1,3 @@
+open entire folder and Create a new file test.html and WRITE it directly to disk with:
+- title "Test"
+- heading "Hello"
